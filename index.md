@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# MAYA-virtual-Assistant-version-8.0  :loud_sound: 
+It is a GUI Based **M A Y A** Virtual Voice Assitant.It is designed for a service which can access and controls the functions and web in the system.It can understand human speech, talk to user and execute basic commands.
+# :writing_hand: Requirements
+these are the required packages:
+- pyttsx3
+- PyAudio
+- SpeechRecognition
+- webbrowser
+- wikipedia
+- wolframalpha
+- socket
+- datetime
+- smtplib
+- ctypes
+- ctypes.wintypes
+- random
+- os
+- wmi
+- sys
+- time
+- pygame
+- pyautogui
+- psutil
+- string
+- tkinter 
+> ## :heavy_check_mark: windows 
+* Navigate to Command Prompt
+* Run  ```pip install -r requirements.txt``` to install dependencies
+* Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
+> ## :heavy_check_mark: Linux
+- Navigate to Terminal
+- Run ```pip install -r requirements.txt``` to install dependencies
+- Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
+# M A Y A commands
+- MAYA   : responds
+- open   : opens system and web Applications 
+- search : web searching
+- play   : it plays songs and videos in system and web
+# M A Y A Skills
+- Opens a web applications what you want present in the system
+- Opens windows applications
+- Play a videos in Youtube and 
+- play songs in the system
+- search location for a place
+- Tells about something, by searching on the internet 
+- Tells the weather for a place 
+- Tells the current time and/or date 
+- Tells the battery percentage
+- Minimize/Maximize/close the windows
+- it can sleep for secs
+- it can take screenshots
+- it can lock the pc
+- it can increase/decrease the screen braightness 
+- it can restart/shutdown the system
+- it can send gmail set your from and to mail address
+- it says ipaddress
+- calculates the mathematical problems
+- you can do fun with MAYA
+- Tells everything and it can search in web if MAYA doesn't know
+# M A Y A Features
+- Asynchronous command execution & speech interruption
+- wake words, can be triggered with a phrase e.g ('hey','hey MAYA!')
+- Continues listening service, triggered by a phrase e.g ('hi', 'hello MAYA')
+- Online service
+- Vocal response
+- Easy voice-command customization
+- Graphical User Interface easy controling
+# Updates
+the updating of version 8. sequence will be soon..
+# Designed by **_[Shanmuk Michael](https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8)_** :sunglasses:
 
-You can use the [editor on GitHub](https://github.com/shanmukmichael/shanmuk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shanmukmichael/shanmuk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
