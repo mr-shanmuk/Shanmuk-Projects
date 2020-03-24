@@ -1,6 +1,6 @@
-# MAYA-virtual-Assistant-version-8.0  :loud_sound: 
+# MAYA-virtual-Assistant-version-8.0  
 It is a GUI Based **M A Y A** Virtual Voice Assitant.It is designed for a service which can access and controls the functions and web in the system.It can understand human speech, talk to user and execute basic commands.
-# :writing_hand: Requirements
+#  Requirements
 these are the required packages:
 - pyttsx3
 - PyAudio
@@ -23,11 +23,11 @@ these are the required packages:
 - psutil
 - string
 - tkinter 
-> ## :heavy_check_mark: windows 
+> ##  windows 
 * Navigate to Command Prompt
 * Run  ```pip install -r requirements.txt``` to install dependencies
 * Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
-> ## :heavy_check_mark: Linux
+> ##  Linux
 - Navigate to Terminal
 - Run ```pip install -r requirements.txt``` to install dependencies
 - Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
@@ -67,6 +67,6 @@ these are the required packages:
 - Graphical User Interface easy controling
 # Updates
 the updating of version 8. sequence will be soon..
-# Designed by **_[Shanmuk Michael](https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8)_** :sunglasses:
+# Designed by **_[Shanmuk Michael](https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8)_** 
 
 
