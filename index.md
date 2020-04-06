@@ -1,3 +1,40 @@
+# License-Plate-Recognition Using Tensorflow 
+The project developed using TensorFlow to detect the **License-Plate** with some accuracy.
+
+# Dependencies
+- TensorFlow 1.0
+- OpenCV
+- NumPy
+
+# Training Custom Object Detector
+- Stting up the [Object_Detection](https://github.com/tensorflow/models/tree/master/research/object_detection) directory structure in an Environment
+- Gathering Data
+- **label** pictures using [labelImg](https://github.com/tzutalin/labelImg)
+- Creating a **labelmap** 
+- Making **xml** Data
+- Conveting **xml to CSV** & **CSV to TFRecord** format
+- **Train** by using Pre-trained models provided by **TensorFlow**
+- Monitor Training Job Progress using **TensorBoard**
+- Exporting the **inference graph**
+- Using the two Important **frozen_inference_graph.pb** & **label_map.pbtxt** files we can Detect Object
+
+# Detecting Object Using 
+- Image
+- Camera
+- Video Clip
+
+# Demo - Using Image
+
+![Detection - 99%](https://user-images.githubusercontent.com/55943851/78575099-82767080-7848-11ea-8eb5-4b47a47fa89a.jpeg)
+
+# Demo - Using Camera
+
+![Detection - 96%](https://user-images.githubusercontent.com/55943851/78575120-8bffd880-7848-11ea-90d2-dacd690f6579.jpeg)
+
+
+- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
 # MAYA-virtual-Assistant-version-8.0  
 It is a GUI Based **M A Y A** Virtual Voice Assitant.It is designed for a service which can access and controls the functions and web in the system.It can understand human speech, talk to user and execute basic commands.
 #  Requirements
@@ -72,6 +109,25 @@ these are the required packages:
 
 # Updates
 the updating of version 8. sequence will be soon..
+
+
+- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=shanmukmichael_chrome_assit&metric=alert_status)](https://sonarcloud.io/dashboard?id=shanmukmichael_chrome_assit)
+
+# Speech Recognition Chrome Assitant
+A tool for voice command assitant
+# Requirements
+these are the required packages:
+- pyttsx3
+- PyAudio
+- SpeechRecognition
+- webbrowser
+# Usage
+# windows 
+- It is used by our voice command when there is no chrome window is opend if you give command it opens the chrome window and shows the results in chrome search box when window is closed it asks to search again if you say yes it continue..else it stops.
+
 # Designed by **[Shanmuk Michael](https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8)** 
 
 
