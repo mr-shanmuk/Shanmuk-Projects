@@ -4,7 +4,6 @@
 
 <div style="font-size: 100px"><div align="center">COVID-19 LIVE TRACKER </div></div>
 
-<div style="font-size: 100px"><div align="center">------------------------------------------------------------</div></div>
  
 ## GIF 	
 
