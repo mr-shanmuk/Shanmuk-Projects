@@ -8,7 +8,7 @@
     <b>Cybersecurity Enthusiast | Flutter UI Developer | Artist</b>
   <br><br>
   <br>
-  <a href="https://mr-shanmuk.github.io/Shanmuk-Publication-Site/">Github Projects </a>  |
+  <a href="https://mr-shanmuk.github.io/Shanmuk-Projects/">Github Projects </a>  |
   <a href="https://www.linkedin.com/in/mr-shanmuk">LinkedIn </a>  |
   <a href="https://www.instagram.com/mr_singlle">Instagram</a>
   <br><br>
