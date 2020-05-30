@@ -9,7 +9,7 @@
   <br><br>
   <br>
   <a href="https://shanmukmichael.github.io/Shanmuk-Projects/">Github Projects </a>  |
-  <a href="https://www.linkedin.com/in/shanmukmichael>LinkedIn </a>  |
+  <a href="https://www.linkedin.com/in/shanmukmichael>LinkedIn"</a>  |
   <a href="https://www.instagram.com/mr_singlle">Instagram</a>
   <br><br>
   
