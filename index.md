@@ -1,83 +1,155 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Solar System Simulation 3D </title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-  </head>
-  <body>
-    <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas"></canvas>
-      <div id="unity-loading-bar">
-        <div id="unity-logo"></div>
-        <div id="unity-progress-bar-empty">
-          <div id="unity-progress-bar-full"></div>
-        </div>
-      </div>
-      <div id="unity-mobile-warning">
-        WebGL builds are not supported on mobile devices.
-      </div>
-      <div id="unity-footer">
-        <div id="unity-webgl-logo"></div>
-        <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">Solar System Simulation 3D [Tap your Planet] Developed by | Shanmuk michael | </div>
-      </div>
-    </div>
-    <script>
-      var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebGL.loader.js";
-      var config = {
-        dataUrl: buildUrl + "/WebGL.data",
-        frameworkUrl: buildUrl + "/WebGL.framework.js",
-        codeUrl: buildUrl + "/WebGL.wasm",
-        streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "Solar System Simulation",
-        productVersion: "1.0",
-      };
+<p align='center'>
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/55943851/79341605-b1c46600-7f49-11ea-9970-2cafe665de09.png">
+</p>
 
-      var container = document.querySelector("#unity-container");
-      var canvas = document.querySelector("#unity-canvas");
-      var loadingBar = document.querySelector("#unity-loading-bar");
-      var progressBarFull = document.querySelector("#unity-progress-bar-full");
-      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
-      var mobileWarning = document.querySelector("#unity-mobile-warning");
+<div style="font-size: 100px"><div align="center">COVID-19 LIVE TRACKER </div></div>
 
-      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-        container.className = "unity-mobile";
-        config.devicePixelRatio = 1;
-        mobileWarning.style.display = "block";
-        setTimeout(() => {
-          mobileWarning.style.display = "none";
-        }, 5000);
-      } else {
-        canvas.style.width = "1536px";
-        canvas.style.height = "700px";
-      }
-      loadingBar.style.display = "block";
+ 
+## GIF 	
 
-      var script = document.createElement("script");
-      script.src = loaderUrl;
-      script.onload = () => {
-        createUnityInstance(canvas, config, (progress) => {
-          progressBarFull.style.width = 100 * progress + "%";
-        }).then((unityInstance) => {
-          loadingBar.style.display = "none";
-          fullscreenButton.onclick = () => {
-            unityInstance.SetFullscreen(1);
-          };
-        }).catch((message) => {
-          alert(message);
-        });
-      };
-      document.body.appendChild(script);
-    </script>
-  </body>
-</html>
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/55943851/79354371-f22be000-7f59-11ea-8dcb-1f10c8ba8b3e.gif">
+</p>
+
+## SCREENSHOTS
+
+<img width= "250" height="480" src="https://user-images.githubusercontent.com/55943851/79351847-cbb87580-7f56-11ea-947c-9ee26ad2427e.jpeg">     <img width= "250" height="480" src="https://user-images.githubusercontent.com/55943851/79351861-cfe49300-7f56-11ea-8dff-549b7cc997ef.jpeg">     <img  width= "250" height="480" src="https://user-images.githubusercontent.com/55943851/79351923-dffc7280-7f56-11ea-89ce-fb4321171f29.jpeg">
+<img width="250" height="480"  src="https://user-images.githubusercontent.com/55943851/79351932-e12d9f80-7f56-11ea-9297-fe415df6f87c.jpeg">     <img width="250" height="480" src="https://user-images.githubusercontent.com/55943851/79354065-8a759500-7f59-11ea-85ea-ec95051670dd.jpeg">     <img width= "250" height="480"  src="https://user-images.githubusercontent.com/55943851/79351977-ebe83480-7f56-11ea-9072-cd704a65e17c.jpeg">
 
 
+- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+
+# License-Plate-Recognition Using Tensorflow 
+The project developed using TensorFlow to detect the **License-Plate** with some accuracy.
+
+# Dependencies
+- TensorFlow 1.0
+- OpenCV
+- NumPy
+
+# Training Custom Object Detector
+- Stting up the [Object_Detection](https://github.com/tensorflow/models/tree/master/research/object_detection) directory structure in an Environment
+- Gathering Data
+- **label** pictures using [labelImg](https://github.com/tzutalin/labelImg)
+- Creating a **labelmap** 
+- Making **xml** Data
+- Conveting **xml to CSV** & **CSV to TFRecord** format
+- **Train** by using Pre-trained models provided by **TensorFlow**
+- Monitor Training Job Progress using **TensorBoard**
+- Exporting the **inference graph**
+- Using the two Important **frozen_inference_graph.pb** & **label_map.pbtxt** files we can Detect Object
+
+# Detecting Object Using 
+- Image
+- Camera
+- Video Clip
+
+# Demo - Using Image
+
+![Detection - 99%](https://user-images.githubusercontent.com/55943851/78575099-82767080-7848-11ea-8eb5-4b47a47fa89a.jpeg)
+
+# Demo - Using Camera
+
+![Detection - 96%](https://user-images.githubusercontent.com/55943851/78575120-8bffd880-7848-11ea-90d2-dacd690f6579.jpeg)
+
+
+- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+# MAYA-virtual-Assistant-version-8.0  
+It is a GUI Based **M A Y A** Virtual Voice Assitant.It is designed for a service which can access and controls the functions and web in the system.It can understand human speech, talk to user and execute basic commands.
+#  Requirements
+these are the required packages:
+- pyttsx3
+- PyAudio
+- SpeechRecognition
+- webbrowser
+- wikipedia
+- wolframalpha
+- socket
+- datetime
+- smtplib
+- ctypes
+- ctypes.wintypes
+- random
+- os
+- wmi
+- sys
+- time
+- pygame
+- pyautogui
+- psutil
+- string
+- tkinter 
+> ##  windows 
+* Navigate to Command Prompt
+* Run  ```pip install -r requirements.txt``` to install dependencies
+* Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
+> ##  Linux
+- Navigate to Terminal
+- Run ```pip install -r requirements.txt``` to install dependencies
+- Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
+# M A Y A commands
+- MAYA   : responds
+- open   : opens system and web Applications 
+- search : web searching
+- play   : it plays songs and videos in system and web
+# M A Y A Skills
+- Opens a web applications what you want present in the system
+- Opens windows applications
+- Play a videos in Youtube and 
+- play songs in the system
+- search location for a place
+- Tells about something, by searching on the internet 
+- Tells the weather for a place 
+- Tells the current time and/or date 
+- Tells the battery percentage
+- Minimize/Maximize/close the windows
+- it can sleep for secs
+- it can take screenshots
+- it can lock the pc
+- it can increase/decrease the screen braightness 
+- it can restart/shutdown the system
+- it can send gmail set your from and to mail address
+- it says ipaddress
+- calculates the mathematical problems
+- you can do fun with MAYA
+- Tells everything and it can search in web if MAYA doesn't know
+# M A Y A Features
+- Asynchronous command execution & speech interruption
+- wake words, can be triggered with a phrase e.g ('hey','hey MAYA!')
+- Continues listening service, triggered by a phrase e.g ('hi', 'hello MAYA')
+- Online service
+- Vocal response
+- Easy voice-command customization
+- Graphical User Interface easy controling
+
+![M A Y A GUI](https://user-images.githubusercontent.com/55943851/77429460-b17bf380-6dff-11ea-9a51-47488b127b70.png)
+
+![About](https://user-images.githubusercontent.com/55943851/77429640-fb64d980-6dff-11ea-950d-8c6d6c40822d.png)
+
+# Updates
+the updating of version 8. sequence will be soon..
+
+
+- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=shanmukmichael_chrome_assit&metric=alert_status)](https://sonarcloud.io/dashboard?id=shanmukmichael_chrome_assit)
+
+# Speech Recognition Chrome Assitant
+A tool for voice command assitant
+# Requirements
+these are the required packages:
+- pyttsx3
+- PyAudio
+- SpeechRecognition
+- webbrowser
+# Usage
+# windows 
+- It is used by our voice command when there is no chrome window is opend if you give command it opens the chrome window and shows the results in chrome search box when window is closed it asks to search again if you say yes it continue..else it stops.
+
+# Designed by **[Shanmuk Michael](https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8)** 
 
 
