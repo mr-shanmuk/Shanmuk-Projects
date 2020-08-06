@@ -49,7 +49,7 @@
 ## GIF 	:film_projector:
 
 <p align='center'>
-<img widht ="800" height="500"src="https://user-images.githubusercontent.com/55943851/84565695-82cf4280-ad88-11ea-9d0b-e6a23f2ddf9f.gif">
+<img width ="800" height="500" src="https://user-images.githubusercontent.com/55943851/84565695-82cf4280-ad88-11ea-9d0b-e6a23f2ddf9f.gif">
 </p>
 
 
