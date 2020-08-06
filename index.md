@@ -1,3 +1,20 @@
+
+
+ 
+<p align="center">
+  <img widht ="200" height="200" src="https://user-images.githubusercontent.com/55943851/89507940-d4290a80-d7ea-11ea-9ec1-9999cfcd960e.jpg"><br><br>
+</p>
+  
+
+ -  Just say / Type, " **Talk to shanmuk Resume Bott** " in **Google Asisstant**
+ -  Ask about **my resume topics** it will say all about me (or) you can go through the **suggestion tips** to know about me
+ -  It will open my app for all **android users** and **IOS users** who have **google assistant**
+
+
+
+
+
+
 <p align='center'>
   <img width="200" height="200" src="https://user-images.githubusercontent.com/55943851/79341605-b1c46600-7f49-11ea-9970-2cafe665de09.png">
 </p>
