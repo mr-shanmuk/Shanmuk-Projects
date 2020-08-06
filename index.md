@@ -33,12 +33,6 @@
 
 <h1 style="text-align:center">Solar-System-Simulation-3D</h1>
 
-<p align="center" >
-  <a href="https://shanmukmichael.github.io/Solar-System-Simulation-3D/"> P L A Y </a>  
-  <br><br>
-</p>
-
-
 
 <p align="center">
   <img widht ="200" height="200" src="https://user-images.githubusercontent.com/55943851/84566062-cbd4c600-ad8b-11ea-95bd-ce6251df7317.png">
