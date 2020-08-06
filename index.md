@@ -33,7 +33,7 @@
 
 <h1 style="text-align:center">Solar-System-Simulation-3D</h1>
 
-<p align="center">
+<p align="center" >
   <a href="https://shanmukmichael.github.io/Solar-System-Simulation-3D/"> P L A Y </a>  
   <br><br>
 </p>
@@ -44,13 +44,20 @@
   <img widht ="200" height="200" src="https://user-images.githubusercontent.com/55943851/84566062-cbd4c600-ad8b-11ea-95bd-ce6251df7317.png">
 </p>
 
+<p align="center" >
+  <a href="https://shanmukmichael.github.io/Solar-System-Simulation-3D/"> P L A Y </a>  
+  <br><br>
+</p>
 
 
-## GIF 	:film_projector:
+
+
+## GIF
 
 <p align='center'>
-<img width ="800" height="500" src="https://user-images.githubusercontent.com/55943851/84565695-82cf4280-ad88-11ea-9d0b-e6a23f2ddf9f.gif">
+<img widht ="800" height="500"src="https://user-images.githubusercontent.com/55943851/84565695-82cf4280-ad88-11ea-9d0b-e6a23f2ddf9f.gif">
 </p>
+
 
 
 
