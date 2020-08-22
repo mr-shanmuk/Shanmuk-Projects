@@ -1,4 +1,6 @@
-# Graphical-Password-Authentication-System
+
+
+<h1 style="text-align:center">Graphical-Password-Authentication-System</h1>
 
 * Signup &amp; Login Authentication Using Flask
 * Password Hashing - SHA256
