@@ -3,13 +3,13 @@
 * Signup &amp; Login Authentication Using Flask
 * Password Hashing - SHA256
 
-# :writing_hand: Requirements
+# Requirements
 - flask
 - flask-sqlalchemy
 - flask-login
 - werkzeug
 
-> ## :heavy_check_mark:Windows
+> ## Windows
 *  ```pip install -r requirements.txt``` to install dependencies
 * ```python3 -m venv <env name>``` to create virtual environment
 * ```<env name>\scripts\activate``` 
@@ -17,7 +17,7 @@
 * ```SET FLASK_DEBUG=1```
 * ```flask run```
 
-> ## :heavy_check_mark:Linux
+> ## Linux
 * ```pip install -r requirements.txt``` to install dependencies
 * ```python3 -m venv <env name>``` to create virtual environment
 * ```source <env name>\scripts\activate``` 
