@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shanmukmichael.github.io/Shanmuk_Projects">Shanmuk_Projects</a><br>
+  <a href="https://shanmukmichael.github.io/My-Projects">My-Projects</a><br>
   </p><br><br>
 
 
