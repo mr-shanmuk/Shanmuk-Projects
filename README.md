@@ -9,7 +9,7 @@
 • Supported for Windows only
 # python
 ```
-# #10 Virtual-Volume-Controller
+# #10 Virtual Volume Controller
 :link: <a href="https://github.com/shanmukmichael/Virtual-Volume-Controller">View Project</a>
 ```
 • We can control volume virtually in front of camera by fingers
@@ -86,7 +86,7 @@
 3.webGL - it is the website graphical library (experience in web also)
 # Unity3D
 ```
-# #2 License-Plate-Recognition Using Tensorflow
+# #2 License Plate Recognition Using Tensorflow
 :link: <a href="https://github.com/shanmukmichael/License-Plate-Recognition-Using-Tensorflow">View Project</a>
 ```
 • The project developed using TensorFlow to detect the License-Plate with some accuracy
