@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shanmukmichael.github.io/My-Projects">Go To Projects Website</a><br>
+  <a href="https://shanmukmichael.github.io/My-Projects">Projects Website</a><br>
   </p><br><br>
 
 # #11 PC Wi-Fi Passwords Gathering Tool
