@@ -33,14 +33,14 @@
 • Theme - Cyber Security
 • Cyber Security Internship
 # Group Project
-#  flask,html,js
+# flask,html,js
 ```
 # #7 Graphic Designs
 :link: <a href="https://github.com/shanmukmichael/Graphic-Designs">See Project</a>
 ```
 • Files - ai, eps , PNG, JPG, SVG Formats
 • High Quality & Resolution
-#  Adobe illustrator
+# Adobe illustrator
 ```
 # #6 Shanmuk Resume Bott
 :link: <a href="https://github.com/shanmukmichael/Shanmuk-Resume-Bott">See Project</a>
@@ -55,7 +55,7 @@
 ```
 • Corona Patients Live Tracking Records
 • Good user Interface
-#  Flutter 
+# Flutter 
 ```
 
 # #4 Roller Madness 3D Game
