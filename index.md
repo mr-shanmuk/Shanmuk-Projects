@@ -1,3 +1,11 @@
+ # #12 Virtual Mouse Controller
+:link: <a href="https://github.com/shanmukmichael/Virtual-Mouse-Controller">View Project</a>
+```
+• We can control mouse movements virtually in front of camera by fingers
+• Used Interpolation concept
+# python
+```
+
 # #11 PC Wi-Fi Passwords Gathering Tool
 <a href="https://github.com/shanmukmichael/PC-Wi-Fi-Passwords-Gathering-Tool">View Project</a>
 ```
