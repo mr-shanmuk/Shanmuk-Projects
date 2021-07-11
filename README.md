@@ -1,6 +1,13 @@
 <p align="center">
   <a href="https://shanmukmichael.github.io/My-Projects">Projects Website</a><br>
   </p><br><br>
+ # #12 Virtual Mouse Controller
+:link: <a href="https://github.com/shanmukmichael/Virtual-Mouse-Controller">View Project</a>
+```
+• We can control mouse movements virtually in front of camera by fingers
+• Used Interpolation concept
+# python
+```
 
 # #11 PC Wi-Fi Passwords Gathering Tool
 :link: <a href="https://github.com/shanmukmichael/PC-Wi-Fi-Passwords-Gathering-Tool">View Project</a>
@@ -14,7 +21,7 @@
 ```
 • We can control volume virtually in front of camera by fingers
 • Used Interpolation concept
-# opencv-python & mediapipe
+# python 
 ```
 # #9 Analytics Dashboard
 :link: <a href="https://github.com/shanmukmichael/Analytics-Dashboard">View Project</a>
